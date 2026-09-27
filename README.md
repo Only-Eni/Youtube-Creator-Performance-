@@ -8,7 +8,7 @@ The project works with a dataset of **15,830 YouTube channels** and focuses on t
 
 ## 📊 Dashboard
 
-![YouTube Creator Performance Dashboard](Youtube-Creator-Performance-/powerbi/screenshots/youtube_performance.png)
+![YouTube Creator Performance Dashboard](powerbi/screenshots/youtube_performance.png)
 
 The dashboard was developed in Power BI using an analytical SQL view containing the cleaned dataset and derived performance metrics.
 
