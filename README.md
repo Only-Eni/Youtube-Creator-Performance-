@@ -6,7 +6,7 @@ The analysis uses a dataset containing **15,830 YouTube channels** and demonstra
 
 ## Dashboard Preview
 
-![YouTube Creator Performance Dashboard](powerbi/screenshots/youtube_performance.png)
+![YouTube Creator Performance Dashboard](powerbi/screenshots/youtube_performance2.png)
 
 ## Project Objective
 
@@ -302,7 +302,7 @@ The dashboard explores:
 - Top channels
 - Country-level exploration
 
-![YouTube Creator Performance Dashboard](powerbi/screenshots/youtube_performance.png)
+![YouTube Creator Performance Dashboard](powerbi/screenshots/youtube_performance3.png) ![YouTube Creator Performance Dashboard](powerbi/screenshots/youtube_performance.png)
 
 [View dashboard screenshots](powerbi/screenshots/)
 
